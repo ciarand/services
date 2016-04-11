@@ -1,3 +1,5 @@
+This project is deprecated and unmaintained. Proceed with caution!
+
 Gitter.im Services [![Build Status](https://travis-ci.org/gitterHQ/services.svg?branch=1.0.0)](https://travis-ci.org/gitterHQ/services) [![Gitter chat](https://badges.gitter.im/gitterHQ/services.png)](https://gitter.im/gitterHQ/services)
 ==================
 The things that power your [Gitter](https://gitter.im) activity feed.
